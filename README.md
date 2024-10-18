@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Imrannazirmim/Imrannazirmim/blob/main/I%20am%20web%20developer.png)
 <h1 align="center">Hi 👋, I'm Imran Nazir</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
