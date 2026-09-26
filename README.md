@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/Imrannazirmim/Imrannazirmim/main/Untitled%20design.png)
+![logo](https://raw.githubusercontent.com/Imrannazirmim/Imrannazirmim/main/banner.jpeg)
 <h2 align="center">🤙About Me</h2>
  I'm an experienced and innovative passionate Web Developer with a strong foundation in both frontend and backend technologies. I love creating efficient, scalable, and responsive web applications that offer a seamless user experience. My focus is on building modern, robust web solutions with clean and maintainable code.
 <hr>
